@@ -1,3 +1,7 @@
 .DS_Store
 ATMOCN311_Spring2020/
 davis_inversion_code/
+draft.py
+test_feature/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
